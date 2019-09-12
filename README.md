@@ -14,4 +14,4 @@ The Architecture of V2 is represented in the figure below.
 ![Image Search Recommendation Architecture](https://github.com/Delvify/SIAChallangeDemo/blob/master/images/ComputerVisionArchitecture.png "Image Search Recommendation Architecture")
 
 The demo for object detection using live video streaming.
-![Demo video](https://github.com/Delvify/SIAChallangeDemo/blob/master/images/ComputerVisionArchitecture.png "Object Detection")
+![Demo video](https://github.com/Delvify/SIAChallangeDemo/blob/master/images/out.gif "Object Detection")
