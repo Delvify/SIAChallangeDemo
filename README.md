@@ -12,3 +12,6 @@ Version_2 is interactive and is based on computer vision. User can upload the im
 
 The Architecture of V2 is represented in the figure below.
 ![Image Search Recommendation Architecture](https://github.com/Delvify/SIAChallangeDemo/blob/master/images/ComputerVisionArchitecture.png "Image Search Recommendation Architecture")
+
+The demo for object detection using live video streaming.
+![Demo video](https://github.com/Delvify/SIAChallangeDemo/blob/master/images/ComputerVisionArchitecture.png "Object Detection")
