@@ -183,4 +183,3 @@ if __name__ == "__main__":
 
 #  curl http://13.67.xxx.xx:8085/computeSimilarity?text=your%20seearch%20query
 
-
